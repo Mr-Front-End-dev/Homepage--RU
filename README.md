@@ -1,6 +1,6 @@
 # Simple homepage about the author's results in Front-End's education
 
-[Link](https://mrpenguin-dev.github.io/Simple-Homepage/)
+[Link](https://mr-front-end-dev.github.io/Homepage--RU-LSG-/)
 
 #### Added:
 1. Navigation with: (Homepage, About the author, My skills and Interaction in JS)
